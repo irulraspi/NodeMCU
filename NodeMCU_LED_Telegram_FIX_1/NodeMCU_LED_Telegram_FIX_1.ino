@@ -42,9 +42,6 @@ void loop() {
 
     if (msg.text.equalsIgnoreCase("/start")) {
       myBot.sendMessage(msg.sender.id, "Selamat datang di bot controller lampu \n \n Ketik On untuk menyalakan lampu \n Ketik Off untuk mematikan lampu ");
-//      myBot.sendMessage(msg.sender.id, "Ketik On untuk menyalakan lampu");
-//      myBot.sendMessage(msg.sender.id, "Ketik Off untuk mematikan lampu");
-
     }
     if (msg.text.equalsIgnoreCase("On")) {                   //Perintah dari telegram ke perangkat
       digitalWrite(lampu, HIGH);                              //Lampu dihidupkan
