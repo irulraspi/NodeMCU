@@ -3,9 +3,9 @@
 #include "CTBot.h"
 CTBot myBot;
 
-String ssid  = "Note 7";   // Nama WiFi atau SSID kalian
-String pass  = "bayar5000";  // Password Wifi
-String token = "1387200421:AAGBKCy5dz4NNdyAmeHmfpMwqSHTiFXOLOU"; // Token Telegram kalian
+String ssid  = "xxxxxxxxxxxxxxx";   // Nama WiFi atau SSID kalian
+String pass  = "xxxxxxxxx";  // Password Wifi
+String token = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"; // Token Telegram kalian
 
 const int lampu = D6;
 
