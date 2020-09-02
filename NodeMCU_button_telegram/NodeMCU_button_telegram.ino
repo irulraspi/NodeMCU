@@ -4,10 +4,10 @@
 CTBot myBot;
 
 
-String ssid  = "ZIA HOTSPOT";   // Nama WiFi atau SSID kalian
-String pass  = "bayar5000";  // Password Wifi
-String token = "1387200421:AAGBKCy5dz4NNdyAmeHmfpMwqSHTiFXOLOU"; // Token Telegram kalian
-const int id = 124315068;
+String ssid  = "XXXXX";   // Nama WiFi atau SSID kalian
+String pass  = "XXXXXXX";  // Password Wifi
+String token = "XXXXXXXXXXXXXXXXXXXXXX"; // Token Telegram kalian
+const int id = XXXXXXXXX; //TokenID
 const int tombol = D2;
 const int led = D6;
 int button = 0;
