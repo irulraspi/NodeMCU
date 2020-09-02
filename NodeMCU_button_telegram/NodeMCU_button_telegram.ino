@@ -1,4 +1,3 @@
-// https://www.warriornux.com/kontrol-relay-nodemcu-esp8266-dengan-telegram/
 // https://github.com/shurillu/CTBot
 #include "CTBot.h"
 CTBot myBot;
