@@ -1,3 +1,5 @@
+//https://www.youtube.com/channel/UCMBdfL84kNqYv1K7Ixm3MYA?view_as=subscriber
+
 #include <Wire.h> 
 #include <LiquidCrystal_I2C.h>
 int ir_pin = D5;  // pin
