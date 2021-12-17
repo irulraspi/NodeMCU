@@ -1,0 +1,35 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jul 9, 2015, 2:12:12 PM
+    Author     : EX4
+*/
+@font-face {
+  font-family: 'led7segment';
+  /*
+  src: url('Digital-7Mono.eot');
+  src: url('Digital-7Mono.eot?#iefix') format('embedded-opentype'),
+       url('Digital-7Mono.woff2') format('woff2'),
+       url('Digital-7Mono.woff') format('woff'),
+       url('Digital-7Mono.ttf') format('truetype'),
+       url('Digital-7Mono.svg#Digital-7Mono') format('svg');
+  */
+   src:url('DSEG7Classic-Regular.woff') format('woff'),
+       url('DSEG7Classic-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.digital-display{
+    font-family: 'led7segment';
+    font-size: 6em;
+    color: red;
+    margin: 0;
+    padding: 0;
+/*    width: 250px;*/
+    text-align: right;
+}
+
